@@ -1,8 +1,8 @@
 from typing import List
 
-API_ID: int = 25803426
-API_HASH: str = "291b6bea4848d7606c0d3213c317b430"
-TOKEN: str = "6483499681:AAHEGzswREgXraiX02MCrDq5VvGE_9AWOqU"
+API_ID: int = 
+API_HASH: str = "291b6bea4848d7606d3213c317b430"
+TOKEN: str = "6483499681:AAHEGzswREgXraiX02rDq5VvGE_9AWOqU"
 
 log_chat: int = -1001902012951
 sub_chat: str = "SakuraEmpireTeam"
